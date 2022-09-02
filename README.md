@@ -7,11 +7,7 @@
 ​								www.bitcoin.org 
 ​								2008.10.31
 
-​								中文翻译：李笑来
-​								lixiaolai@gmail.com
-​								2018.10.31
 
-​								[Checkout Github Repo for this translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
 
 
 
